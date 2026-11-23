@@ -33,9 +33,10 @@ def presentation():
         <li>Les jeux vidéo</li>
         <li>La musique</li>
         <li>Le code (bientôt !)</li>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100">
+
     </ul>
     """
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100">
 
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
